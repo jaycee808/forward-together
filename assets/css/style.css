@@ -16,13 +16,13 @@ a {
     font-family: "Protest Riot", sans-serif;
     font-size: 5rem;
     text-align: center;
+    color: #36454F;
 }
 
 /* Navigation Bar */
 
 .nav-bar {
-    font-family: "Protest Strike", sans-serif;
-    font-size: 3rem;
+    margin: 1.5rem 0;
 }
 
 .nav-menu {
@@ -31,7 +31,10 @@ a {
 }
 
 .nav-item {
+    font-family: "Andika", sans-serif;
+    font-size: 2rem;
     list-style: none;
+    color: #36454F;
 }
 
 /* Grid Display Styles */
